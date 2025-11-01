@@ -10,8 +10,8 @@ password = os.getenv("cisco")
 device = {
     "device_type" : "cisco_ios"
     "ip" : "192.168.192.185"
-    "username": raja,
-    "password": cisco,
+    "username": "raja",
+    "password": "cisco"
 }
 
 net_connect = ConnectHandler(**device)
