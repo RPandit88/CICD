@@ -5,7 +5,7 @@ user = os.getenv("cisco")
 password = os.getenv("cisco")
 
 #if not user not password:
-  #  raise ValueError("Missing user and password")
+ #   raise ValueError("Missing user and password")
 
 device = {
     "device_type" : "cisco_ios"
