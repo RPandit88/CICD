@@ -9,7 +9,7 @@ if not user not password:
 
 device = {
     "device_type" : "cisco_ios"
-    "ip" : 192.168.192.185"
+    "ip" : "192.168.192.185"
     "username": raja,
     "password": cisco,
 }
