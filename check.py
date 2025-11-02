@@ -9,7 +9,7 @@ password = os.getenv("cisco")
 
 device = {
     "device_type" : "cisco_ios"
-    "ip" : "192.168.192.185"
+    "ip" : "10.4.0.1"
     "username": "raja",
     "password": "cisco"
 }
